@@ -184,8 +184,6 @@ The full modern version would be **5x faster** and use **10x less memory**!
 
 ## 💡 Bonus: Modern Version Snippet
 
-If you want to show how much you've improved, add this to the README:
-
 ```python
 # 2026 Version: Better, faster, cleaner
 class SearchEngine:
@@ -203,7 +201,3 @@ class SearchEngine:
     def search(self, query):
         return self.index.get(query.lower(), {})
 ```
-
----
-
-**Want to see the full modern version? Check the `modern/` folder!** 🚀
