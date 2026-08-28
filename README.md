@@ -169,7 +169,7 @@ The full modern version would be **5x faster** and use **10x less memory**!
 
 ## 🔗 Connect
 
-[Your GitHub Profile] • [Your LinkedIn]
+🐙 [GitHub](https://github.com/Saman-naruee) • 💼 [LinkedIn](https://www.linkedin.com/in/saman-naruee-nosrati/)
 
 ---
 
