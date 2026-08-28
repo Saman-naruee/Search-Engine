@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 📚 Python Search Engine - My Second Major Project
 
 **A nostalgic journey back to my early Python days (2022)**
@@ -40,7 +40,7 @@ The engine searches through 33 classic literature texts from Project Gutenberg:
 
 ## 🏗️ Project Structure
 
-
+```
 search_engine.py
 ├── data_base_name()      # Returns list of 33 text files
 ├── files_reader()        # Reads all files → builds nested list structure
